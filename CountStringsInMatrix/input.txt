@@ -1,0 +1,8 @@
+6 6
+MAGIC
+B B M B B B
+C B A B B B
+I B G B B B
+G B I B B B
+A B C B B B
+M C I G A M

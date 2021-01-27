@@ -1,0 +1,2 @@
+The patter is found at the index  : 4
+The patter is found at the index  : 8
